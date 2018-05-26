@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Delivery Setup" section_id="38bbef79379213006447097973990ebc" sys_domain="global" table="x_135430_academy_training_course" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>duration</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-26 22:45:55</sys_created_on>
+            <sys_id>bc603f3d379213006447097973990eec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Delivery Setup" display_value="Delivery Setup" name="x_135430_academy_training_course" sys_domain="global" view="Default view">38bbef79379213006447097973990ebc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-26 22:45:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>schedule</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-26 22:45:55</sys_created_on>
+            <sys_id>30603f3d379213006447097973990eed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Delivery Setup" display_value="Delivery Setup" name="x_135430_academy_training_course" sys_domain="global" view="Default view">38bbef79379213006447097973990ebc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-26 22:45:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-26 22:45:55</sys_created_on>
+            <sys_id>b0603f3d379213006447097973990eed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Delivery Setup" display_value="Delivery Setup" name="x_135430_academy_training_course" sys_domain="global" view="Default view">38bbef79379213006447097973990ebc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-26 22:45:55</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>certified_trainers</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-26 22:45:55</sys_created_on>
+            <sys_id>34603f3d379213006447097973990eed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Delivery Setup" display_value="Delivery Setup" name="x_135430_academy_training_course" sys_domain="global" view="Default view">38bbef79379213006447097973990ebc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-26 22:45:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Delivery Setup</caption>
+            <header>false</header>
+            <name>x_135430_academy_training_course</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-26 22:25:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>38bbef79379213006447097973990ebc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Delivery Setup</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Academy" source="x_135430_academy">27846b75379213006447097973990ee8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Academy">27846b75379213006447097973990ee8</sys_scope>
+            <sys_update_name>sys_ui_section_38bbef79379213006447097973990ebc</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-26 22:25:26</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="7cbbef79379213006447097973990ebd" sys_domain="global" table="x_135430_academy_training_course" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-26 22:25:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b0bbef79379213006447097973990ec0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_135430_academy_training_course" name="x_135430_academy_training_course" sys_domain="global" view="Default view">7cbbef79379213006447097973990ebd</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_135430_academy_training_course" sys_domain="global" view="Default view">fec9af39379213006447097973990e47</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-26 22:25:26</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-26 22:25:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bcbbef79379213006447097973990ec0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_135430_academy_training_course" name="x_135430_academy_training_course" sys_domain="global" view="Default view">7cbbef79379213006447097973990ebd</sys_ui_form>
+            <sys_ui_section caption="Delivery Setup" display_value="Delivery Setup" name="x_135430_academy_training_course" sys_domain="global" view="Default view">38bbef79379213006447097973990ebc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-26 22:25:26</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-26 22:25:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b0bbef79379213006447097973990ec4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_135430_academy_training_course" name="x_135430_academy_training_course" sys_domain="global" view="Default view">7cbbef79379213006447097973990ebd</sys_ui_form>
+            <sys_ui_section caption="Historic Activities" display_value="Historic Activities" name="x_135430_academy_training_course" sys_domain="global" view="Default view">30bbef79379213006447097973990ebd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-26 22:25:26</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_135430_academy_training_course</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-26 22:25:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7cbbef79379213006447097973990ebd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_135430_academy_training_course</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Academy" source="x_135430_academy">27846b75379213006447097973990ee8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Academy">27846b75379213006447097973990ee8</sys_scope>
+            <sys_update_name>sys_ui_form_sections_7cbbef79379213006447097973990ebd</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-26 22:25:26</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
