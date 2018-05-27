@@ -5,13 +5,13 @@
             <element>duration</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-26 22:45:55</sys_created_on>
-            <sys_id>bc603f3d379213006447097973990eec</sys_id>
+            <sys_created_on>2018-05-27 11:13:53</sys_created_on>
+            <sys_id>559b52c2371a13006447097973990e0f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Delivery Setup" display_value="Delivery Setup" name="x_135430_academy_training_course" sys_domain="global" view="Default view">38bbef79379213006447097973990ebc</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-26 22:45:55</sys_updated_on>
+            <sys_updated_on>2018-05-27 11:13:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,13 +19,13 @@
             <element>schedule</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-26 22:45:55</sys_created_on>
-            <sys_id>30603f3d379213006447097973990eed</sys_id>
+            <sys_created_on>2018-05-27 11:13:53</sys_created_on>
+            <sys_id>d59b52c2371a13006447097973990e0f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Delivery Setup" display_value="Delivery Setup" name="x_135430_academy_training_course" sys_domain="global" view="Default view">38bbef79379213006447097973990ebc</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-26 22:45:55</sys_updated_on>
+            <sys_updated_on>2018-05-27 11:13:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -33,27 +33,27 @@
             <element>.split</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-26 22:45:55</sys_created_on>
-            <sys_id>b0603f3d379213006447097973990eed</sys_id>
+            <sys_created_on>2018-05-27 11:13:53</sys_created_on>
+            <sys_id>599b52c2371a13006447097973990e0f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Delivery Setup" display_value="Delivery Setup" name="x_135430_academy_training_course" sys_domain="global" view="Default view">38bbef79379213006447097973990ebc</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-26 22:45:55</sys_updated_on>
+            <sys_updated_on>2018-05-27 11:13:53</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>certified_trainers</element>
+            <element>trainers</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-26 22:45:55</sys_created_on>
-            <sys_id>34603f3d379213006447097973990eed</sys_id>
+            <sys_created_on>2018-05-27 11:13:53</sys_created_on>
+            <sys_id>d99b52c2371a13006447097973990e0f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Delivery Setup" display_value="Delivery Setup" name="x_135430_academy_training_course" sys_domain="global" view="Default view">38bbef79379213006447097973990ebc</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-26 22:45:55</sys_updated_on>
+            <sys_updated_on>2018-05-27 11:13:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

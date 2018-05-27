@@ -5,13 +5,13 @@
             <element>process_flow.xml</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-26 22:50:14</sys_created_on>
-            <sys_id>58613f79379213006447097973990e38</sys_id>
+            <sys_created_on>2018-05-27 11:24:53</sys_created_on>
+            <sys_id>ee1e1e06371a13006447097973990e4d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter display_value="Process Flow">02f077f9379213006447097973990ebf</sys_ui_formatter>
             <sys_ui_section caption="NULL" display_value="" name="x_135430_academy_training_course" sys_domain="global" view="Default view">fec9af39379213006447097973990e47</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-26 22:50:14</sys_updated_on>
+            <sys_updated_on>2018-05-27 11:24:53</sys_updated_on>
             <sys_user/>
             <type>formatter</type>
         </sys_ui_element>
@@ -19,27 +19,27 @@
             <element>name</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-26 22:50:14</sys_created_on>
-            <sys_id>dc613f79379213006447097973990e38</sys_id>
+            <sys_created_on>2018-05-27 11:24:53</sys_created_on>
+            <sys_id>661e1e06371a13006447097973990e4e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_135430_academy_training_course" sys_domain="global" view="Default view">fec9af39379213006447097973990e47</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-26 22:50:14</sys_updated_on>
+            <sys_updated_on>2018-05-27 11:24:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>short_description</element>
+            <element>title</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-26 22:50:14</sys_created_on>
-            <sys_id>50613f79379213006447097973990e39</sys_id>
+            <sys_created_on>2018-05-27 11:24:53</sys_created_on>
+            <sys_id>e61e1e06371a13006447097973990e4e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_135430_academy_training_course" sys_domain="global" view="Default view">fec9af39379213006447097973990e47</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-26 22:50:14</sys_updated_on>
+            <sys_updated_on>2018-05-27 11:24:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -47,13 +47,13 @@
             <element>description</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-26 22:50:14</sys_created_on>
-            <sys_id>d0613f79379213006447097973990e39</sys_id>
+            <sys_created_on>2018-05-27 11:24:53</sys_created_on>
+            <sys_id>6a1e1e06371a13006447097973990e4e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_135430_academy_training_course" sys_domain="global" view="Default view">fec9af39379213006447097973990e47</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-26 22:50:14</sys_updated_on>
+            <sys_updated_on>2018-05-27 11:24:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

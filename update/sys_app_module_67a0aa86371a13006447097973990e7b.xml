@@ -6,7 +6,9 @@
         <assessment/>
         <content_page/>
         <device_type/>
-        <filter/>
+        <filter table="x_135430_academy_training_course">state=published^EQ<item endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="published"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
         <hint/>
         <homepage/>
         <image/>
@@ -15,28 +17,28 @@
         <mobile_title>Training courses</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_135430_academy_training_course</name>
-        <order>150</order>
+        <order>130</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
         <roles>x_135430_academy.employee</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-05-26 22:02:53</sys_created_on>
+        <sys_created_on>2018-05-27 11:36:09</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>668667b5379213006447097973990e6a</sys_id>
-        <sys_mod_count>5</sys_mod_count>
-        <sys_name>All</sys_name>
+        <sys_id>67a0aa86371a13006447097973990e7b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Published</sys_name>
         <sys_overrides/>
         <sys_package display_value="Academy" source="x_135430_academy">27846b75379213006447097973990ee8</sys_package>
         <sys_policy/>
         <sys_scope display_value="Academy">27846b75379213006447097973990ee8</sys_scope>
-        <sys_update_name>sys_app_module_668667b5379213006447097973990e6a</sys_update_name>
+        <sys_update_name>sys_app_module_67a0aa86371a13006447097973990e7b</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-05-27 11:36:44</sys_updated_on>
+        <sys_updated_on>2018-05-27 11:36:09</sys_updated_on>
         <timeline_page/>
-        <title>All</title>
+        <title>Published</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>
