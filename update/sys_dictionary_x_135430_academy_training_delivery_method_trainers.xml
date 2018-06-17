@@ -10,7 +10,7 @@
         <choice>0</choice>
         <choice_field/>
         <choice_table/>
-        <column_label>Trainers</column_label>
+        <column_label>Trainer(s)</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -50,14 +50,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-06-17 20:38:21</sys_created_on>
         <sys_id>b226640537ba53006447097973990e76</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Trainers</sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Trainer(s)</sys_name>
         <sys_package display_value="Academy" source="x_135430_academy">27846b75379213006447097973990ee8</sys_package>
         <sys_policy/>
         <sys_scope display_value="Academy">27846b75379213006447097973990ee8</sys_scope>
         <sys_update_name>sys_dictionary_x_135430_academy_training_delivery_method_trainers</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-06-17 20:38:21</sys_updated_on>
+        <sys_updated_on>2018-06-17 21:05:33</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

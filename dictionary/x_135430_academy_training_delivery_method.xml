@@ -10,6 +10,6 @@
         </element>
         <element label="Description" max_length="4000" name="description" type="string"/>
         <element display="true" label="Short description" max_length="40" name="short_description" type="string"/>
-        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="Trainers" max_length="1024" name="trainers" reference="sys_user" type="glide_list"/>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="Trainer(s)" max_length="1024" name="trainers" reference="sys_user" type="glide_list"/>
     </element>
 </database>
