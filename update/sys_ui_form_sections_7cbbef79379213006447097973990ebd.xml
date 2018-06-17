@@ -25,7 +25,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_135430_academy_training_course" name="x_135430_academy_training_course" sys_domain="global" view="Default view">7cbbef79379213006447097973990ebd</sys_ui_form>
-            <sys_ui_section caption="Delivery Setup" display_value="Delivery Setup" name="x_135430_academy_training_course" sys_domain="global" view="Default view">38bbef79379213006447097973990ebc</sys_ui_section>
+            <sys_ui_section caption="Delivery Details" display_value="Delivery Details" name="x_135430_academy_training_course" sys_domain="global" view="Default view">38bbef79379213006447097973990ebc</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2018-05-26 22:25:26</sys_updated_on>
         </sys_ui_form_section>
