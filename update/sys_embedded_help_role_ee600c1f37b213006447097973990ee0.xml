@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <role display_value="x_135430_academy.resource_manager" name="x_135430_academy.resource_manager">f65084df37b213006447097973990e1d</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-24 17:39:44</sys_created_on>
+        <sys_id>ee600c1f37b213006447097973990ee0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>f65084df37b213006447097973990e1d</sys_name>
+        <sys_package display_value="Academy" source="x_135430_academy">27846b75379213006447097973990ee8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Academy">27846b75379213006447097973990ee8</sys_scope>
+        <sys_update_name>sys_embedded_help_role_ee600c1f37b213006447097973990ee0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-24 17:39:44</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

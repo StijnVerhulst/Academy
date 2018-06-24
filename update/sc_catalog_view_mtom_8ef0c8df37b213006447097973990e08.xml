@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_catalog_view_mtom">
+    <sc_catalog_view_mtom action="INSERT_OR_UPDATE">
+        <default>true</default>
+        <sc_catalog display_value="Academy">8dc00cdf37b213006447097973990e51</sc_catalog>
+        <sys_class_name>sc_catalog_view_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-24 17:42:10</sys_created_on>
+        <sys_id>8ef0c8df37b213006447097973990e08</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Academy Organization.catalog_academy_organization</sys_name>
+        <sys_package display_value="Academy" source="x_135430_academy">27846b75379213006447097973990ee8</sys_package>
+        <sys_policy/>
+        <sys_portal_page display_value="catalog_academy_organization">4af0c8df37b213006447097973990e07</sys_portal_page>
+        <sys_scope display_value="Academy">27846b75379213006447097973990ee8</sys_scope>
+        <sys_update_name>sc_catalog_view_mtom_8ef0c8df37b213006447097973990e08</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-24 17:42:10</sys_updated_on>
+    </sc_catalog_view_mtom>
+</record_update>

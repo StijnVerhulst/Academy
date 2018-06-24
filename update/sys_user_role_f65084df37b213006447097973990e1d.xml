@@ -8,20 +8,20 @@
         <encryption_context/>
         <grantable>true</grantable>
         <includes_roles/>
-        <name>x_135430_academy.training_coordinator</name>
+        <name>x_135430_academy.resource_manager</name>
         <scoped_admin>false</scoped_admin>
-        <suffix>training_coordinator</suffix>
+        <suffix>resource_manager</suffix>
         <sys_class_name>sys_user_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-05-26 21:59:19</sys_created_on>
-        <sys_id>c3a527b5379213006447097973990eec</sys_id>
+        <sys_created_on>2018-06-24 17:39:44</sys_created_on>
+        <sys_id>f65084df37b213006447097973990e1d</sys_id>
         <sys_mod_count>1</sys_mod_count>
-        <sys_name>x_135430_academy.training_coordinator</sys_name>
+        <sys_name>x_135430_academy.resource_manager</sys_name>
         <sys_package display_value="Academy" source="x_135430_academy">27846b75379213006447097973990ee8</sys_package>
         <sys_policy/>
         <sys_scope display_value="Academy">27846b75379213006447097973990ee8</sys_scope>
-        <sys_update_name>sys_user_role_c3a527b5379213006447097973990eec</sys_update_name>
+        <sys_update_name>sys_user_role_f65084df37b213006447097973990e1d</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-06-24 17:40:33</sys_updated_on>
+        <sys_updated_on>2018-06-24 17:39:59</sys_updated_on>
     </sys_user_role>
 </record_update>
