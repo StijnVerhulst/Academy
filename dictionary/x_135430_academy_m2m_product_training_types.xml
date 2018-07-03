@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Product training types" max_length="40" name="x_135430_academy_m2m_product_training_types" type="collection">
+        <element label="Product" max_length="32" name="product" reference="x_135430_academy_product" type="reference"/>
+        <element label="Training course type" max_length="32" name="training_course_type" reference="x_135430_academy_training_course_type" type="reference"/>
+        <index name="index">
+            <element name="product"/>
+        </index>
+        <index name="index2">
+            <element name="training_course_type"/>
+        </index>
+    </element>
+</database>

@@ -18,16 +18,16 @@
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-26 22:25:26</sys_created_on>
+            <sys_created_on>2018-06-24 19:17:07</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>bcbbef79379213006447097973990ec0</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_id>c9b6989f37f213006447097973990e3d</sys_id>
+            <sys_mod_count>1</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_135430_academy_training_course" name="x_135430_academy_training_course" sys_domain="global" view="Default view">7cbbef79379213006447097973990ebd</sys_ui_form>
-            <sys_ui_section caption="Delivery Details" display_value="Delivery Details" name="x_135430_academy_training_course" sys_domain="global" view="Default view">38bbef79379213006447097973990ebc</sys_ui_section>
+            <sys_ui_section caption="Course Details" display_value="Course Details" name="x_135430_academy_training_course" sys_domain="global" view="Default view">b0b65c5737f213006447097973990e31</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-26 22:25:26</sys_updated_on>
+            <sys_updated_on>2018-06-24 19:17:29</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>2</position>
@@ -35,13 +35,27 @@
             <sys_created_on>2018-05-26 22:25:26</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
+            <sys_id>bcbbef79379213006447097973990ec0</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_135430_academy_training_course" name="x_135430_academy_training_course" sys_domain="global" view="Default view">7cbbef79379213006447097973990ebd</sys_ui_form>
+            <sys_ui_section caption="Delivery Details" display_value="Delivery Details" name="x_135430_academy_training_course" sys_domain="global" view="Default view">38bbef79379213006447097973990ebc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-24 19:17:29</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-26 22:25:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>b0bbef79379213006447097973990ec4</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_135430_academy_training_course" name="x_135430_academy_training_course" sys_domain="global" view="Default view">7cbbef79379213006447097973990ebd</sys_ui_form>
             <sys_ui_section caption="Historic Activities" display_value="Historic Activities" name="x_135430_academy_training_course" sys_domain="global" view="Default view">30bbef79379213006447097973990ebd</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-26 22:25:26</sys_updated_on>
+            <sys_updated_on>2018-06-24 19:17:29</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_135430_academy_training_course</name>

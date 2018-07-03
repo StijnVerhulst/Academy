@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Training course type" max_length="40" name="x_135430_academy_training_course_type" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="4000" name="description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Short description" max_length="40" name="short_description" type="string"/>
+    </element>
+</database>

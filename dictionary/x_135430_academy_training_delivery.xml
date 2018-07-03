@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Training delivery" max_length="40" name="x_135430_academy_training_delivery" type="collection"/>
+</database>
